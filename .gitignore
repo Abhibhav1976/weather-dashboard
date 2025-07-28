@@ -1,0 +1,17 @@
+# Node modules
+frontend/node_modules/
+backend/venv/
+
+# Environment variables
+**/.env
+
+# Build output
+frontend/build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MacOS metadata
+.DS_Store
