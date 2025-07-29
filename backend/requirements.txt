@@ -2,8 +2,8 @@ fastapi==0.110.1
 uvicorn==0.25.0
 
 # MongoDB
-motor==3.2.0
-pymongo==4.3.3
+motor==3.3.1
+pymongo==4.5.0
 
 # Environment & Security
 python-dotenv>=1.0.1
