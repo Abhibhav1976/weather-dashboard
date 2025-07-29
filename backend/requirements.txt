@@ -23,13 +23,6 @@ numpy>=1.26.0
 python-multipart>=0.0.9
 jq>=1.6.0
 typer>=0.9.0
---- For Async HTTP Requests ---
 aiohttp==3.9.5
-
---- Database Driver ---
-For interacting with MongoDB asynchronously
 motor==3.4.0
-
---- Data Validation ---
-FastAPI relies on Pydantic for data models
 pydantic==2.7.1
