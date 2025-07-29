@@ -4,7 +4,7 @@ uvicorn==0.25.0
 
 # MongoDB + Async
 motor==3.4.0
-pymongo==4.5.0
+pymongo==4.13.2
 
 # Environment & Config
 python-dotenv>=1.0.1
